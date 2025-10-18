@@ -1,4 +1,3 @@
-import 'package:flame_game/components/audio_manager.dart';
 import 'package:flame_game/my_game.dart';
 import 'package:flutter/material.dart';
 
